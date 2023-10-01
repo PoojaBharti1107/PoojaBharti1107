@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PoojaBharti1107
-- 👀 I’m interested in coding, robotics and ethical hacking.
-- 🌱 I’m currently learning Robotics.
+- 👀 I’m interested in coding, web development and ethical hacking.
+- 🌱 I’m currently MERN.
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me :- my gmail- bharti.pooja1107@gmail.com
 
